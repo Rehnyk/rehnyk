@@ -1,13 +1,8 @@
 Hi, I'm Renata!
 ======================================================================================================================================
 
-Full-Stack developer
+I'm full-stack web developer, with background in geoinformatics.
 --------------------
-
-jffasjandsjflksdajfjasdkfljamklnklnklasdfasf
-
-*   🌍  I'm based in Helsinki
-*   ✉️  You can contact me at [hnykova.renata@gmail.com](mailto:hnykova.renata@gmail.com)
   
 
 <p align="left">
