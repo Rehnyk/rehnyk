@@ -1,8 +1,15 @@
-Hi, I'm Renata!
-======================================================================================================================================
+# Hi, I'm Renata!
 
 I'm full-stack web developer, with background in geoinformatics.
-
+In the last year, I've mainly focused on upgrading my skills, diving into full-stack development training and teaching myself new techniques. This combination of skills and experiences makes me well-prepared to tackle a wide range of challenges.  
+  
+## SKILLS
+**Front-end programming:** JavaScript (React, Svelte), HTML, CSS  
+**Frameworks/Libraries:** NodeJS (Express),  Deno, templating libraries (EJS, ETA), E2E testing (Cypress, Playwright)  
+**Databases:** PostgreSQL, MySQL, MongoDB  
+**Version Control:** Git, GitHub, BitBucket  
+**Container technologies:** Docker, Docker Compose  
+**Geoinformatics Tools:** ArcGIS, QGIS, OCAD  
   
 
 <p align="left">
